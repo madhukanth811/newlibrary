@@ -1,6 +1,6 @@
-def newgit(repo)
+def newgit(xyz)
 {
-  git "${repo}"
+  git "${xyz}"
 }
 
 def newmaven()
